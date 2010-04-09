@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Joind.On.Air' target in the 'Joind.On.Air' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
